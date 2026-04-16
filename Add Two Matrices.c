@@ -28,4 +28,4 @@ int main() {
     }
 
     return 0;
-}
+}piyush saini codes for a example 
